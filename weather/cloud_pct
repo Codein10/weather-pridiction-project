@@ -1,0 +1,10 @@
+Cloud pct= response.cloud pct
+Feels like= response.Feels like
+Humidity= response.Humidity
+Max temp= response.Max temp
+Min temp= response.Min temp
+Sunrise= response.Sunrise
+Sunset= response.Sunset
+Temp= response.Temp
+Wind degrees= response.Wind degrees
+Wind speed= response.Wind speed
