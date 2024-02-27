@@ -1,2 +1,2 @@
-# weather-pridiction-project
+# weather-app
 pridict humidity ,tempture ,wind speed
